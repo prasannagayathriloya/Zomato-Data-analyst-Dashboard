@@ -12,4 +12,5 @@ To analyze Zomato restaurant data and understand trends in ratings, cost, and cu
 
 ## Dashboard Preview
 
-![Zomato Dashboard] dashboard.png
+![Zomato Dashboard] Excel dash board.png
+
